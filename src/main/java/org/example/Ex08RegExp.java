@@ -24,7 +24,7 @@ public class Ex08RegExp {
             success = false;
         }
         if (!newPassword.matches(".*\\d.*")) {
-            errorMessages += "- Password should contain at least one digit";
+            errorMessages += "- Password should contain at least one digit\n";
             success = false;
         }
 
