@@ -13,6 +13,5 @@ public class Ex07 {
         String birthDate = scanner.nextLine();
 
         System.out.printf("New employee was created. First name: %s, last name: %s, born: %s", firstName, lastName, birthDate);
-
     }
 }
