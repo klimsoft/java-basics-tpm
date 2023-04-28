@@ -25,5 +25,23 @@ public class Ex09Arrays {
             }
 
         }
+        {
+            int size = 10;
+            int[][] array = new int[size][size];
+
+            for (int i = 0; i < size; i++) {
+                for (int j = 0; j < size; j++) {
+                    array[i][j] = (i+1) * (j+1);
+                }
+            }
+
+            //display array
+            for (int i = 0; i < size; i++) {
+                for (int j = 0; j < size; j++) {
+                    System.out.printf("%4d", array[i][j] );
+                }
+                System.out.println();
+            }
+        }
     }
 }
