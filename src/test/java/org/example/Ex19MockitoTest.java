@@ -7,7 +7,7 @@ import org.mockito.Mockito;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex19Mockito {
+public class Ex19MockitoTest {
     @Test
     void testMockitoReturnList() {
         List mockedList = Mockito.mock();
