@@ -27,7 +27,11 @@
             <version>5.3.1</version>
             <scope>test</scope>
         </dependency>
-
+        <dependency>
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy-jaxb</artifactId>
+            <version>3.0.17</version>
+        </dependency>
     </dependencies>
 
     <build>
