@@ -1,0 +1,20 @@
+<bookstore>
+    <book category="fiction">
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <price>10.99</price>
+        <isbn>9780439708180</isbn>
+    </book>
+    <book category="fiction">
+        <title>Harry Potter and the Chamber of Secrets</title>
+        <author>J.K. Rowling</author>
+        <price>12.99</price>
+        <isbn>9780439064873</isbn>
+    </book>
+    <book category="non-fiction">
+        <title>The Elements of Style</title>
+        <author>William Strunk Jr.</author>
+        <price>8.99</price>
+        <isbn>9780205309023</isbn>
+    </book>
+</bookstore>
